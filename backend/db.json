@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "id": "1749008231060",
+      "title": "Test Note",
+      "content": "This is a test note",
+      "tags": [
+        "test"
+      ],
+      "createdAt": "2025-06-04T03:37:11.060Z",
+      "updatedAt": "2025-06-04T03:37:11.061Z"
+    },
+    {
+      "id": "1749009277486",
+      "title": "dbms",
+      "content": "finish it before 5pm",
+      "tags": [
+        "cse",
+        "it"
+      ],
+      "createdAt": "2025-06-04T03:54:37.486Z",
+      "updatedAt": "2025-06-04T03:54:37.486Z"
+    }
+  ]
+}
